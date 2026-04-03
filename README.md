@@ -97,7 +97,7 @@
 
 ### My Digital Trophy Shelf 🏆💻
 
-[![An image of @dharmendra4522's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dharmendra4522)](https://holopin.io/@dharmendra4522)
+[![Holopin Profile](https://img.shields.io/badge/Holopin-Profile-FD5F00?style=flat-square)](https://holopin.io/@dharmendra4522)
 
 <div align="center">
   
