@@ -80,7 +80,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra4522&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<p></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dharmendra4522&theme=dark&hide_border=false)<br/><br/>
+![](https://streak-stats.demolab.com/?user=dharmendra4522&theme=dark&hide_border=false)<br/><br/>
 </p>
 
 
